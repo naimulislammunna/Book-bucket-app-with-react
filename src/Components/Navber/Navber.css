@@ -1,0 +1,12 @@
+.navber-section{
+    margin: auto;
+}
+.active{
+    border: 2px solid rgb(0, 165, 3);
+    padding: 5px 20px;
+    border-radius: 15px;
+    background: white !important;
+    color: rgb(46, 223, 46) !important;
+    font: 700 !important;
+    font-size: 15px;
+}
